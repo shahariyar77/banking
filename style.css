@@ -1,0 +1,108 @@
+main input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    background: #f5f5f5;
+    font-size: 15px;
+}
+
+main {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.tittle {
+    text-align: center;
+}
+
+main button {
+    background: orange;
+    color: #fff;
+    border: navajowhite;
+    padding: 15px 40px;
+    font-size: 17px;
+}
+
+/* banking page */
+.money-wrap {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.single-money-item {
+    background: lightseagreen;
+    width: 33%;
+    margin:0 20px;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+
+.single-money-item span {
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    display: inline-block;
+}
+
+.single-money-item h1 {
+    font-size: 46px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 10px;
+}
+
+h1.tittle span {
+    color: blue;
+    padding-left: 20px;
+}
+
+.add-out-wrap {
+    display: flex;
+    justify-content: space-around;
+}
+
+seciton.add-out-area {margin-bottom: 50px;}
+
+.signle-add-out h4 {font-size: 25px;font-weight: 700;color: #fff;}
+
+.signle-add-out input {
+    padding: 10px;
+    font-size: 18px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.signle-add-out button {
+    padding: 15px 20px;
+    background: green;
+    color: #fff;
+    border: none;
+}
+
+.signle-add-out {
+    background: darkseagreen;
+    width: 50%;
+    margin: 0 20px;
+    padding: 20px 29px;
+    border-radius: 10px;
+}
+.green {
+    background: rgb(59 130 246 / 0.5);
+}
+
+.yellow {
+    background: yellowgreen;
+}
+.red {
+    background: indianred;
+}
+
+.red button {
+    background: darkred;
+}
+
+section.monery-area {
+    margin-bottom: 50px;
+}
